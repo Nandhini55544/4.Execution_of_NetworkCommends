@@ -27,6 +27,16 @@ This commands includes
 <BR>
 
 ## Output
+4a
+![image](https://github.com/user-attachments/assets/d6c35ee5-d19d-454d-b1ba-0a39c8c45917)
+
+![image](https://github.com/user-attachments/assets/885bf17d-243e-483b-961d-082fabe00b40)
+
+4b
+![image](https://github.com/user-attachments/assets/7756290c-2913-42ad-913d-8dccb906fbd2)
+
+![image](https://github.com/user-attachments/assets/24688b37-75fd-4981-97a2-cc252b7d5371)
+
 
 ## Result
 Thus Execution of Network commands Performed 
